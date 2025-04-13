@@ -1,4 +1,5 @@
 # ABC_Estate_Wine_Sales_Forecast_TIME SERIES FORECASTING
+# Forecasting Wine Sales for ABC Estate Wines company
 # Context
 As an analyst at ABC Estate Wines, we are presented with historical data encompassing the sales of different types of wines throughout the 20th century. These datasets originate from the same company but represent sales figures for distinct wine varieties. Our objective is to delve into the data, analyze trends, patterns, and factors influencing wine sales over the course of the century. By leveraging data analytics and forecasting techniques, we aim to gain actionable insights that can inform strategic decision-making and optimize sales strategies for the future.
 
